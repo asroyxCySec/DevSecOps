@@ -3,7 +3,7 @@
 > Disclaimer: Tools dibuat oleh saya sendiri dengan tujuan challenge diri sendiri menjadi lebih baik 😊 🙏
 
 ## 1. Arsitektur DevSecOps Overview
- ```
+
                                                ┌──────────────────────────────┐
                                                │         Developers           │
                                                └─────────────┬────────────────┘
@@ -35,5 +35,9 @@
                                                       └──────┬──────┘
                                                              │
                                                       ┌──────▼──────┐
-                                                      │ SOAR & IR   │ (TheHive + Cortex)
+                                                      │ SOAR & IR   │ (TheHive + Cortex) 
                                                       └─────────────┘ 
+
+
+## 2. Komponen & Tools
+> ![image](https://github.com/user-attachments/assets/78dcef24-b1c7-4dae-8ee0-293a040f727c)
